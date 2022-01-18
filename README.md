@@ -6,6 +6,7 @@
 4. [MosMedData: Chest CT Scans with COVID-19 Related Findings Dataset](https://mosmed.ai/datasets/covid19_1110/)
 5. [LungCT Segmentation](https://wiki.cancerimagingarchive.net/display/Public/QIN+Lung+CT+Segmentation+Challenge)
 6. [COVID-19 Lung CT segmentation](https://www.kaggle.com/c/covid-segmentation/data)
+7. [Pretrained Segmentation Model](https://github.com/niuchuangnn/lungmask)
 
 # Public Chest X-ray Datasets
 1. [https://github.com/ieee8023/covid-chestxray-dataset]
